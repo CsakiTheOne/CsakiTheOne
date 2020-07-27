@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a student at Pannon University in Hungary.
+
+My goal is to help as many people as I can in a fun way. With code.
+
 <!--
 **CsakiTheOne/CsakiTheOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

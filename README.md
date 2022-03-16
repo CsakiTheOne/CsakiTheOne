@@ -1,21 +1,21 @@
 ## Hi there 👋
 
-| ℹ | About me |
-| - | -------- |
-| 🇭🇺 | Hungarian |
-| 🎓 | [Pannon University](#studies) |
+| ℹ | About me                                                                                |
+| - | --------------------------------------------------------------------------------------- |
+| 🇭🇺 | Hungarian                                                                               |
+| 🎓 | [Pannon University](#studies)                                                           |
 | 📱 | [My apps on Google Play](https://play.google.com/store/apps/dev?id=5554124272482096869) |
 
 My goal is to help as many people as I can in a fun way. With code.
 
 ## Studies
 
-```
+```bf
 Started coding in Basic    Extra year in middle school
-when I was 11           Java             |         You are here
-      |             2015      TypeScript |   2020       |
+when I was 11                            |         You are here
+      |             2015                 |   2020       |
 <-----+--------------+-------------------+----+---------+---->
      2012            |      Kotlin      2019  |        2022
-HTML         Coding in school                 |
-     CSS         C++, C#               Pannon University
+             Coding in school                 |
+                 C++, C#               Pannon University
 ```

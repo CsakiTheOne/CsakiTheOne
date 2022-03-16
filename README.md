@@ -11,11 +11,11 @@ My goal is to help as many people as I can in a fun way. With code.
 ## Studies
 
 ```
-Started coding in Basic
-when I was 11              Extra year in middle school
-      |             2015                 |   2020
-<-----+--------------+-------------------+----+---->
-     2012            |                  2019  |
-            Coding in school           Pannon University
-            C++, C# and web  languages
+Started coding in Basic    Extra year in middle school
+when I was 11           Java             |         You are here
+      |             2015      TypeScript |   2020       |
+<-----+--------------+-------------------+----+---------+---->
+     2012            |      Kotlin      2019  |        2022
+HTML         Coding in school                 |
+     CSS         C++, C#               Pannon University
 ```

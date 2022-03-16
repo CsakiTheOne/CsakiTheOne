@@ -1,23 +1,21 @@
-### Hi there 👋
+## Hi there 👋
 
-I'm a student at Pannon University in Hungary.
+| ℹ | About me |
+| - | -------- |
+| 🇭🇺 | Hungarian |
+| 🎓 | [Pannon University](#studies) |
+| 📱 | [My apps on Google Play](https://play.google.com/store/apps/dev?id=5554124272482096869) |
 
 My goal is to help as many people as I can in a fun way. With code.
 
-**Check out my apps on Google Play:**
-[Nagy cég](https://play.google.com/store/apps/dev?id=5554124272482096869)
+## Studies
 
-<!--
-**CsakiTheOne/CsakiTheOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+Started coding in Basic
+when I was 11              Extra year in middle school
+      |             2015                 |   2020
+<-----+--------------+-------------------+----+---->
+     2012            |                  2019  |
+            Coding in school           Pannon University
+            C++, C# and web  languages
+```
